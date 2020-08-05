@@ -150,7 +150,7 @@
                             <div class="o_setting_right_pane">
                                 <label for="module_mgmtsystem_quality_manual"/>
                                 <div class="text-muted">
-                                    Provide a Quality Manual template based on the ISO 9001:2008 standard
+                                    Provide a Quality Manual template based on the ISO 9001:2015 standard
                                 </div>
                             </div>
                         </div>
@@ -162,7 +162,7 @@
                             <div class="o_setting_right_pane">
                                 <label for="module_mgmtsystem_environment_manual"/>
                                 <div class="text-muted">
-                                    Provide an Environment Manual template based on the ISO 14001:2004 standard
+                                    Provide an Environment Manual template based on the ISO 14001:2015 standard
                                 </div>
                             </div>
                         </div>
